@@ -5,9 +5,7 @@ export function Container({ children }) {
     return (
         <div id='container' className={styles.container}>
             <main className={styles.main}>
-
                 {children}
-
             </main>
         </div>
     )

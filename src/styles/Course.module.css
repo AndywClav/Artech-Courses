@@ -73,3 +73,9 @@
 .card small > span {
   margin-left: 8px;
 }
+
+.author p {
+  color: var(--text-secondary-color);
+  font-size: inherit;
+  font-weight: normal;
+}

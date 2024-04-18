@@ -6,7 +6,7 @@ export function Contributors({ contributors }) {
     <ul className='contribuitors'>
       {contributors.map(({ avatar, login, url }) => (
         <li key={login}>
-          <a className='contribuitors-a' href={url} title={`Github de ${login}`}>
+          <a className='contribuitors-a' href={url} title={`Github de ${login}`} target="_blank" rel="noopener noreferrer">
             <div>
               <img src={avatar} width={64} height={64} alt={`Avatar de ${login}`} />
             </div>

@@ -23,7 +23,7 @@ export function Course({ href, title, subtitle, image, author, alt }) {
                         {subtitle}
                     </span>
                 </div>
-                <div>
+                <div className={styles.author}>
                     {author}
                 </div>
             </section>

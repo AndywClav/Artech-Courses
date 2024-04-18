@@ -1,4 +1,5 @@
 export const CLASES = [
+        // SQL
     {
         idCurso: "1",
         id: "1",
@@ -80,6 +81,7 @@ export const CLASES = [
         repositorio: null,
         video: null
     },
+        // .NET
     {
         idCurso: "2",
         id: "1",
@@ -134,6 +136,7 @@ export const CLASES = [
         repositorio: "https://artech-gitlab.dyndns.org/users/lmorrone/projects",
         video: null
     },
+        // REACT
     {
         idCurso: "3",
         id: "1",
@@ -187,5 +190,156 @@ export const CLASES = [
         material: "https://drive.google.com/drive/folders/1zzP29YUiNz7NUe17hvr0X9N9YVId8Da_",
         repositorio: "https://artech-gitlab.dyndns.org/griesco/react-fisher",
         video: null
+    },
+        // SAP
+    {
+        idCurso: "4",
+        id: "7",
+        clase: "Clase 1 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/En7VCTkNLOtIg2BmBF59RwwB0a6UOngw16Xo5yXyWhnAyw?e=5%3aZ6prH4&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "8",
+        clase: "Clase 2 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/EufCGG1NE0RGoBlXPdefOR4B8C5fAuu7SlwSxCxJYGlpjA?e=5%3aZY57Yg&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "9",
+        clase: "Clase 3 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/EjfusTPFuzRKnDEbVXv6BHkB4mUiw-poUhYGTAks1T45eA?e=5%3a1fJo39&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "10",
+        clase: "Clase 4 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/EnqOix-WZFxEg7Sn3G0MbMIBpIA-KGwpPont0N30DjLMbQ?e=5%3ahKM6xk&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "11",
+        clase: "Clase 5 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/ErbIFLyFlDpCtD6qDAcj94YBVkmfHxmhjBzk_UlSiN539Q?e=5%3aOOkfJB&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "12",
+        clase: "Clase 6 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/EisagYhrI7VEoW0M3gNqAGABWXrXg8VmZEpnDEv1EVBsyA?e=5%3a06uUCw&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "13",
+        clase: "Clase 7 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/ErnxzcbMgDtJk0yRDkKV3rMBxvAE6HMajeWDYys1RJ5g6Q?e=5%3a0fBxjf&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "14",
+        clase: "Clase 8 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/EmPkc23VwhpOhoI0MBqrFFkB8gfigFLMBQKDpp6ziMgNEw?e=5%3a0DzWII&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "15",
+        clase: "Clase 10 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/EtqYM47E_7FEjJV5AADecRsBTQIcA6mBa2Jx0efFpe7pgA?e=5%3a1t0zax&at=9",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "4",
+        id: "16",
+        clase: "Clase 11 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/Ev6piq1kPC5EjBpaNfo4zgkBcEAnXB6LXLCYPIOHL77-cQ?e=5%3aZsXcIa&at=9",
+        repositorio: null,
+        video: null
+    },
+        // PowerApps
+    {
+        idCurso: "5",
+        id: "?",
+        clase: "?",
+        resumen: "?",
+        material: "?",
+        repositorio: "?",
+        video: null
+    },
+        // Recursos
+    {
+        idCurso: "6",
+        id: "?",
+        clase: "App Diagrams.net",
+        resumen: "Sitio para diagramas de todo tipo",
+        material: "https://app.diagrams.net/"
+    },
+    {
+        idCurso: "6",
+        id: "?",
+        clase: "DB Diagram",
+        resumen: "Sitio para diagramas de base de datos",
+        material: "https://dbdiagram.io/"
+    },
+    {
+        idCurso: "6",
+        id: "?",
+        clase: "SQL Server Express 2019",
+        resumen: "Descarga de SQL Server Express 2019",
+        material: "https://www.microsoft.com/es-ar/download/details.aspx?id=101064"
+    },
+    {
+        idCurso: "6",
+        id: "?",
+        clase: "SQL Server Management Studio",
+        resumen: "Descarga de SQL Server Management Studio (SSMS)",
+        material: "https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"
+    },
+    {
+        idCurso: "6",
+        id: "?",
+        clase: "Descarga de Azure Data Studio",
+        resumen: "Descarga de Azure Data Studio (ADS)",
+        material: "https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio"
+    },
+    {
+        idCurso: "6",
+        id: "?",
+        clase: "React.js",
+        resumen: "Documentación oficial de React.js",
+        material: "https://es.react.dev/"
+    },
+    {
+        idCurso: "6",
+        id: "?",
+        clase: "React.js Wiki",
+        resumen: "Preguntas típicas de React.js",
+        material: "https://www.reactjs.wiki/"
     }
 ]

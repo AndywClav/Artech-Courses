@@ -9,6 +9,7 @@ export function NavBar() {
                 <img src="/artech.png" alt='Logo de Artech' width={130} />
             </Link>
             <Share />
+            <div className={styles.navbarFondo}></div>
         </header>
     )
 }

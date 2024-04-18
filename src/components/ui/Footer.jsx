@@ -21,7 +21,7 @@ export function Footer() {
                 </a>
                 <span>&bull;</span>
                 <a
-                    href='https://github.com/griesco/content-organizer-app'
+                    href='https://github.com/AndywClav/Artech-Cursos'
                     rel='nofollow noreferrer'
                     target='_blank'>
                     GitHub
@@ -32,6 +32,13 @@ export function Footer() {
                     rel='nofollow noreferrer'
                     target='_blank'>
                     Google Drive
+                </a>
+                <span>&bull;</span>
+                <a
+                    href='https://artechnet.sharepoint.com/SAP%20Tcnico/Forms/AllItems.aspx?ga=1&id=%2FSAP%20Tcnico%2FABAP%20%2D%20Curso%20inicial&viewid=35188798%2D9e0d%2D47c9%2Da302%2Dae32a63ce2b1'
+                    rel='nofollow noreferrer'
+                    target='_blank'>
+                    Microsoft SharePoint
                 </a>
                 <span>&bull;</span>
                 <a
