@@ -19,6 +19,8 @@
   height: 4rem;
   background: #fffffff2;
   filter: blur(2px);
+  -webkit-backdrop-filter: sepia(1);
+  backdrop-filter: blur(5px) sepia(1);
   z-index: -1;
   padding: 2.5rem 0;
 }

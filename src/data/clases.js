@@ -282,6 +282,15 @@ export const CLASES = [
         repositorio: null,
         video: null
     },
+    {
+        idCurso: "4",
+        id: "17",
+        clase: "Clase 12 - Capacitacion ABAP Basico",
+        resumen: "En proceso el resumen de la clase..",
+        material: "https://artechnet.sharepoint.com/:f:/g/Eg1CEgCdXxFLl6fmCIeobJ0BZ4SiwRG4gx3yf0dDhjqgzA?e=5%3aEW3p6v&at=9",
+        repositorio: null,
+        video: null
+    },
         // PowerApps
     {
         idCurso: "5",

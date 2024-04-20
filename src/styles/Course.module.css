@@ -51,7 +51,9 @@
   margin: 0;
 }
 
-.card div + div {
+.card div+div {
+  display: flex;
+  flex-direction: column;
   margin-top: 24px;
 }
 
@@ -70,12 +72,22 @@
   padding: 0.3rem 0;
 }
 
-.card small > span {
+.card small>span {
   margin-left: 8px;
 }
 
-.author p {
+.author a {
+  display: inline-block;
   color: var(--text-secondary-color);
   font-size: inherit;
   font-weight: normal;
+  text-decoration: none;
+  transition: font-size .1s;
+}
+
+.author a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: rgb(224, 242, 255);
+  font-size: 1.01rem;
 }
