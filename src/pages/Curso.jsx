@@ -14,7 +14,7 @@ export default function Curso() {
 
     return (
         <>
-            <TitleCourse logo={course.logo} technology={course.tecnologia} />
+            <TitleCourse logo={"../" + course.logo} technology={course.tecnologia} />
             <Accordion id={id} />
         </>
     );
