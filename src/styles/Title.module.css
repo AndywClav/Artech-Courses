@@ -9,6 +9,8 @@
 
 @media (max-width: 600px) {
   .title {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     font-size: 2.5rem;
   }
