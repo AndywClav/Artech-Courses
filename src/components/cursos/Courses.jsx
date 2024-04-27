@@ -11,7 +11,7 @@ export function Courses() {
             </Title>
 
             <Small>
-                Aquí puedes encontrar el listado de los cursos completos con sus enlaces a Google Drive
+                Aquí puedes encontrar el listado de los cursos completos con sus enlaces a Google Drive y Microsoft SharePoint
             </Small>
 
             <Grid style={{ marginTop: '3rem' }}>
