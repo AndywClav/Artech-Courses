@@ -27,7 +27,7 @@ export const CURSOS = [
         id: "4",
         tecnologia: "SAP",
         logo: "sap.png",
-        nClases: "?",
+        nClases: "14",
         author: "Fernando Caceres \n Fernando Longhi \n Rodolfo Flores \n Mauro Fernandez \n Juan Aleixo",
         hrefL: "https://www.linkedin.com/in/fernando-c%C3%A1ceres-4868bb1b/ \n # \n https://www.linkedin.com/in/rodolfo-flores-28b087a/ \n # \n https://www.linkedin.com/in/juan-manuel-aleixo-52445228/"
     },
@@ -35,7 +35,7 @@ export const CURSOS = [
         id: "5",
         tecnologia: "PowerApps",
         logo: "powerapps.png",
-        nClases: "?",
+        nClases: "3",
         author: "Aaron Benavides Vega",
         hrefL: "https://www.linkedin.com/in/aaronvega13/"
     },

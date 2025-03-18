@@ -312,59 +312,77 @@ export const CLASES = [
         // PowerApps
     {
         idCurso: "5",
-        id: "?",
-        clase: "?",
+        id: "20",
+        clase: "Clase 1",
         resumen: "?",
-        material: "?",
-        repositorio: "?",
+        material: "https://artechnet-my.sharepoint.com/:v:/r/personal/abenavides_artech-consulting_com/Documents/Capacitaci%C3%B3n%20Pescar%20Grabaciones/Curso%20de%20Power%20Apps%20Clase%20%231.mp4?csf=1&web=1&e=JG1Uo8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "5",
+        id: "21",
+        clase: "Clase 2",
+        resumen: "?",
+        material: "https://artechnet-my.sharepoint.com/personal/abenavides_artech-consulting_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabenavides%5Fartech%2Dconsulting%5Fcom%2FDocuments%2FCapacitaci%C3%B3n%20Pescar%20Grabaciones%2FCurso%20de%20Power%20Apps%20Clase%20%232%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f99016%2D1828%2D40cd%2D87b6%2D5cf256dcd3ef",
+        repositorio: null,
+        video: null
+    },
+    {
+        idCurso: "5",
+        id: "22",
+        clase: "Clase 3",
+        resumen: "?",
+        material: "https://artechnet-my.sharepoint.com/personal/abenavides_artech-consulting_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabenavides%5Fartech%2Dconsulting%5Fcom%2FDocuments%2FCapacitaci%C3%B3n%20Pescar%20Grabaciones%2FCurso%20de%20Power%20Apps%20Clase%20%233%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eed080584%2Da7e8%2D48dc%2Db376%2Dd0a53c69a741",
+        repositorio: null,
         video: null
     },
         // Recursos
     {
         idCurso: "6",
-        id: "?",
+        id: "23",
         clase: "App Diagrams.net",
         resumen: "Sitio para diagramas de todo tipo",
         material: "https://app.diagrams.net/"
     },
     {
         idCurso: "6",
-        id: "?",
+        id: "24",
         clase: "DB Diagram",
         resumen: "Sitio para diagramas de base de datos",
         material: "https://dbdiagram.io/"
     },
     {
         idCurso: "6",
-        id: "?",
+        id: "25",
         clase: "SQL Server Express 2019",
         resumen: "Descarga de SQL Server Express 2019",
         material: "https://www.microsoft.com/es-ar/download/details.aspx?id=101064"
     },
     {
         idCurso: "6",
-        id: "?",
+        id: "26",
         clase: "SQL Server Management Studio",
         resumen: "Descarga de SQL Server Management Studio (SSMS)",
         material: "https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"
     },
     {
         idCurso: "6",
-        id: "?",
+        id: "27",
         clase: "Descarga de Azure Data Studio",
         resumen: "Descarga de Azure Data Studio (ADS)",
         material: "https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio"
     },
     {
         idCurso: "6",
-        id: "?",
+        id: "28",
         clase: "React.js",
         resumen: "Documentación oficial de React.js",
         material: "https://es.react.dev/"
     },
     {
         idCurso: "6",
-        id: "?",
+        id: "29",
         clase: "React.js Wiki",
         resumen: "Preguntas típicas de React.js",
         material: "https://www.reactjs.wiki/"

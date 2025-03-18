@@ -1,4 +1,5 @@
 import styles from '../../styles/Footer.module.css'
+import logoFundacionPescar from '/assets/pescar.png'
 
 export function Footer() {
     return (
@@ -15,7 +16,7 @@ export function Footer() {
                             width='100'
                             loading='lazy'
                             style={{ marginTop: '-2px' }}
-                            src='pescar.png' alt='pescar logo'
+                            src={logoFundacionPescar} alt='pescar logo'
                         />
                     </picture>
                 </a>

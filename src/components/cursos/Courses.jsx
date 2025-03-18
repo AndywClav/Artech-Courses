@@ -25,7 +25,7 @@ export function Courses() {
                             title={`Curso de ${CURSOS[index].tecnologia}`}
                             subtitle={`${CURSOS[index].nClases} clases`}
                             href={`../curso/${CURSOS[index].id}`}
-                            image={`${CURSOS[index].logo}`}
+                            image={`assets/${CURSOS[index].logo}`}
                             alt={`${CURSOS[index].tecnologia}`}
                             author={authors.map((name, authorIndex) => (
                                 <a 
