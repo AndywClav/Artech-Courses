@@ -1,52 +1,127 @@
-# Cursos de Artech
+# Artech Courses
 
-![88shots_so](https://github.com/griesco/content-organizer-app/assets/139785794/d42297ab-1ec7-466a-8104-94d763e238ef)
+> [!IMPORTANT]
+> Website to view all Artech courses | React + Vite | Fundación Pescar
 
-## Content Organizer App 
+- [🎉 Project Description](#-project-description)
+- [⚙️ Features](#️-features)
+- [🚀 How to Run the Project](#-how-to-run-the-project)
+    - [📖 Steps to Run the Project](#-steps-to-run-the-project)
+    - [🧱 Production Build](#-production-build)
+- [📁 Folder Structure](#-folder-structure)
+- [🧾 Available Commands](#-available-commands)
+- [👑 Contribuidores](#-contribuidores)
 
-Este proyecto es una aplicación web que recopila todos los cursos ofrecidos por ARTECH. Proporciona enlaces para ver las clases y materiales, así como enlaces a los perfiles de LinkedIn de los docentes.
+![Imagen of website](https://github.com/griesco/content-organizer-app/assets/139785794/d42297ab-1ec7-466a-8104-94d763e238ef)
 
-## Cómo ejecutar el proyecto
+## 🎉 Project Description
 
-1. **Instalación de dependencias:** Antes de ejecutar el proyecto, asegúrate de tener Node.js instalado en tu sistema. Luego, instala las dependencias del proyecto ejecutando el siguiente comando en la terminal:
+It is a web application that gathers all the courses offered by **ARTECH** in one place. It provides an intuitive interface to browse through the courses, access classes and materials, and view the **LinkedIn** profiles of the instructors. With this tool, users can learn more about the instructors and their professional experience.
 
+This project was created with **Vite and React**, providing a fast and efficient development environment for modern web applications.
+
+Enjoy exploring the courses and acquiring new skills with **ARTECH**!
+
+## ⚙️ Features
+
+- Easy-to-use interface to view all **ARTECH** courses.
+- Links to classes and materials.
+- Links to the **LinkedIn** profiles of the instructors.
+- Mobile and tablet-friendly design.
+
+## 🚀 How to Run the Project
+
+Prerequisites
+- Node.js 18+ (20 LTS recommended)
+- Git
+
+### 📖 Steps to Run the Project:
+
+1. Clone the repository:
+    If you don't have the repository yet, clone it by running the following command in your terminal:
+
+```bash
+git clone https://github.com/griesco/content-organizer-app
 ```
+
+2. Install dependencies:
+    Run the following command to install the necessary dependencies:
+
+```bash
 npm install
 ```
 
-2. **Entorno de desarrollo:** Para ejecutar el proyecto en un entorno de desarrollo local, utiliza el siguiente comando:
+3. Start the development server:
+    To run the project in a local development environment, execute the following command:
 
-```
+```bash
 npm run dev
 ```
 
-Esto iniciará el servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado en `http://localhost:5173`. Si deseas acceder a la aplicación a través de otro navegador o dispositivo en tu red local, utiliza la dirección IP de tu máquina seguida de `:5173` en el navegador.
+Then, open **http://localhost:5173/** in your browser to see the website in action.
 
-3. **Compilación para producción:** Para compilar el proyecto para producción, ejecuta el siguiente comando:
+### 🧱 Production Build:
 
-```
+To build the project for production, use the following command:
+
+```bash
 npm run build
 ```
 
-Esto generará una versión optimizada del proyecto en el directorio `dist`, listo para ser desplegado en un servidor web.
+This will generate an optimized version in the `dist` directory, ready to be deployed on a web server.
 
-## Descripción del proyecto
+## 📁 Folder Structure
 
-La Content Organizer App es una herramienta útil para acceder a todos los cursos ofrecidos por ARTECH en un solo lugar. Proporciona una interfaz intuitiva para navegar por los cursos y acceder a las clases y materiales relacionados. Además, incluye enlaces a los perfiles de LinkedIn de los docentes, lo que permite a los usuarios aprender más sobre ellos y su experiencia.
+```css
+[] .vscode - Configuration and options for Visual Studio Code.
+[] mockup - Wireframes.
+[] src - Source code of the application.
+```
+## 🧾 Available Commands
 
-Este proyecto fue creado con Vite y React, lo que proporciona un entorno de desarrollo rápido y eficiente para construir aplicaciones web modernas.
+| Commands   |   Action |
+|-----------|----------|
+|  `dev`    | Starts the local development server at `localhost:5173`. |
+|  `build`  | Builds the site for production |
+|  `lint`   | Analyzes the code with `ESLint`. |
+| `preview` | Previews the project from the `dist` directory. | 
 
-¡Disfruta explorando los cursos y aprendiendo nuevas habilidades con ARTECH!
+## 👑 Contributors
 
-## Integrantes del Proyecto - Linkedin
+Thanks to all the collaborators who made this project possible!
 
-- [Gero](https://www.linkedin.com/in/ger%C3%B3nimo-ezequiel-riesco/)
-- [Alan](https://www.linkedin.com/in/alanmelofreyre/) 
-- [Larry](https://www.linkedin.com/in/larryguarenas/)
-- [Diego Ugarte](https://www.linkedin.com/in/diego-ugarte-limachi/) 
-- [Andres](https://www.linkedin.com/in/andywclav/) 
-- [Walter](https://www.linkedin.com/in/walter-fern%C3%A1ndez/)
-- [Zoe](https://www.linkedin.com/in/zoe-mlinarevic/)
-- [Sele](https://www.linkedin.com/in/selene-umanzor/) 
-- [Rodri](https://www.linkedin.com/in/rodrigo-fernandez-895359209/)
-- [Iván](https://www.linkedin.com/in/ivan-gabriel-caravajal/)
+<div>
+    <a href="https://www.linkedin.com/in/ger%C3%B3nimo-ezequiel-riesco/">
+        <img src="https://avatars.githubusercontent.com/u/139785794?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/alanmelofreyre/">
+        <img src="https://avatars.githubusercontent.com/u/96092963?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/larryguarenas/">
+        <img src="https://avatars.githubusercontent.com/u/105826102?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/diego-ugarte-limachi/">
+        <img src="https://avatars.githubusercontent.com/u/141255695?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/andywclav/">
+        <img src="https://avatars.githubusercontent.com/u/104153258?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+</div>
+
+<div>
+    <a href="https://www.linkedin.com/in/walter-fern%C3%A1ndez/">
+        <img src="https://avatars.githubusercontent.com/u/126583003?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/zoe-mlinarevic/">
+        <img src="https://avatars.githubusercontent.com/u/117700652?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/selene-umanzor/">
+        <img src="https://avatars.githubusercontent.com/u/116314607?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/rodrigo-fernandez-895359209/">
+        <img src="https://avatars.githubusercontent.com/u/73071620?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/ivan-gabriel-caravajal/">
+        <img src="https://avatars.githubusercontent.com/u/163078269?v=4" width="80px" style="border-radius: 50px;"></img>
+    </a>
+</div>
