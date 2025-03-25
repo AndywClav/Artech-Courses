@@ -5,7 +5,7 @@ export const CONTRIBUIDORES = [
         url: 'https://github.com/griesco'
     },
     {
-        login: 'klerit',
+        login: 'clerriedy',
         avatar: 'https://avatars.githubusercontent.com/u/163078269?v=4',
         url: 'https://github.com/clerriedy'
     },
