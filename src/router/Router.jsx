@@ -6,10 +6,10 @@ function Router() {
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
-        <Route path="/" element={<Navigate to="/cursos" />} />
+        <Route path="/" element={<Navigate to="/courses" />} />
 
         <Route
-          path="/cursos"
+          path="/courses"
           element={
             <RootLayout>
               <Cursos />
@@ -18,14 +18,14 @@ function Router() {
         />
 
         <Route
-          path="/curso/:id"
+          path="/course/:id"
           element={
             <RootLayout>
               <Curso />
             </RootLayout>
           } />
 
-        <Route path="/*" element={<Navigate to="/cursos" />} />
+        <Route path="/*" element={<Navigate to="/courses" />} />
       </Routes>
     </BrowserRouter>
   );

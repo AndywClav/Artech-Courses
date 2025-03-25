@@ -39,7 +39,7 @@ export function AccordionItem(props) {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Ver material
+                                    View material
                                 </a>
                             </li>
                         )}
@@ -50,7 +50,7 @@ export function AccordionItem(props) {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Ir al repositorio
+                                    Go to the repository
                                 </a>
                             </li>
                         )}
@@ -61,7 +61,7 @@ export function AccordionItem(props) {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Ver grabación
+                                    View recording
                                 </a>
                             </li>
                         )}

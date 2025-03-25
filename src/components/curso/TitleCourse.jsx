@@ -6,7 +6,7 @@ export function TitleCourse({ technology, logo }) {
     return (
         <div className={styles.containerCourse}>
             <Title>{technology}</Title>
-            <img src={logo} alt={`Logo de ${technology}`} height={60} />
+            <img src={logo} alt={`Logo of ${technology}`} height={60} />
         </div>
     )
 }

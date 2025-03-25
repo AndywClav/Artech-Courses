@@ -10,7 +10,7 @@
     - [🧱 Production Build](#-production-build)
 - [📁 Folder Structure](#-folder-structure)
 - [🧾 Available Commands](#-available-commands)
-- [👑 Contribuidores](#-contribuidores)
+- [👑 Contributors](#-contributors)
 
 ![Imagen of website](https://github.com/griesco/content-organizer-app/assets/139785794/d42297ab-1ec7-466a-8104-94d763e238ef)
 
@@ -91,37 +91,37 @@ This will generate an optimized version in the `dist` directory, ready to be dep
 Thanks to all the collaborators who made this project possible!
 
 <div>
-    <a href="https://www.linkedin.com/in/ger%C3%B3nimo-ezequiel-riesco/">
+    <a href="https://www.linkedin.com/in/ger%C3%B3nimo-ezequiel-riesco/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/139785794?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/alanmelofreyre/">
+    <a href="https://www.linkedin.com/in/alanmelofreyre/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/96092963?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/larryguarenas/">
+    <a href="https://www.linkedin.com/in/larryguarenas/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/105826102?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/diego-ugarte-limachi/">
+    <a href="https://www.linkedin.com/in/diego-ugarte-limachi/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/141255695?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/andywclav/">
+    <a href="https://www.linkedin.com/in/andywclav/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/104153258?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
 </div>
 
 <div>
-    <a href="https://www.linkedin.com/in/walter-fern%C3%A1ndez/">
+    <a href="https://www.linkedin.com/in/walter-fern%C3%A1ndez/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/126583003?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/zoe-mlinarevic/">
+    <a href="https://www.linkedin.com/in/zoe-mlinarevic/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/117700652?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/selene-umanzor/">
+    <a href="https://www.linkedin.com/in/selene-umanzor/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/116314607?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/rodrigo-fernandez-895359209/">
+    <a href="https://www.linkedin.com/in/rodrigo-fernandez-895359209/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/73071620?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
-    <a href="https://www.linkedin.com/in/ivan-gabriel-caravajal/">
+    <a href="https://www.linkedin.com/in/ivan-gabriel-caravajal/" target="_blank" rel="noopener" style="border-radius: 50px;">
         <img src="https://avatars.githubusercontent.com/u/163078269?v=4" width="80px" style="border-radius: 50px;"></img>
     </a>
 </div>

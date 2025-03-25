@@ -5,11 +5,11 @@ export function Share() {
   return (
     <div className={styles.share}>
       <a
-        href='https://www.linkedin.com/feed/'
+        href='https://www.linkedin.com/in/andywclav/'
         rel='nofollow noopener noreferrer'
         target='_blank'
       >
-        <span>¡Compártelo!</span>
+        <span>Connect with Me!</span>
         <IconLinkedIn />
       </a>
     </div>

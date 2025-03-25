@@ -4,7 +4,7 @@ import styles from '../../styles/Subtitle.module.css'
 export function Sponsors() {
     return (
         <>
-            <h2 className={styles.subtitle} style={{ fontSize: '2.5rem' }}>Patrocinadores</h2>
+            <h2 className={styles.subtitle} style={{ fontSize: '2.5rem' }}>Sponsors</h2>
 
             <Grid style={{ padding: '0 18px' }}>
                 <Sponsor

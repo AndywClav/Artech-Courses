@@ -5,13 +5,13 @@ export function Courses() {
     return (
         <>
             <Title style={{ marginTop: '5rem' }}>
-                Todos los cursos
-                <Badge emoji='🎉' text='5 Cursos' />
-                <Badge emoji='🎉' text='1 Recurso' />
+                All courses
+                <Badge emoji='🎉' text='5 Courses' />
+                <Badge emoji='🎉' text='1 Resource' />
             </Title>
 
             <Small>
-                Aquí puedes encontrar el listado de los cursos completos con sus enlaces a Google Drive y Microsoft SharePoint
+                Here you can find the complete list of courses with their links to Google Drive and Microsoft SharePoint.
             </Small>
 
             <Grid style={{ marginTop: '3rem' }}>
@@ -22,9 +22,9 @@ export function Courses() {
                     return (
                         <Course
                             key={index}
-                            title={`Curso de ${CURSOS[index].tecnologia}`}
-                            subtitle={`${CURSOS[index].nClases} clases`}
-                            href={`../curso/${CURSOS[index].id}`}
+                            title={`${CURSOS[index].tecnologia} Course`}
+                            subtitle={`${CURSOS[index].nClases} classes`}
+                            href={`../course/${CURSOS[index].id}`}
                             image={`assets/${CURSOS[index].logo}`}
                             alt={`${CURSOS[index].tecnologia}`}
                             author={authors.map((name, authorIndex) => (

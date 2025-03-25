@@ -6,8 +6,8 @@ export const CONTRIBUIDORES = [
     },
     {
         login: 'klerit',
-        avatar: 'https://avatars.githubusercontent.com/u/140016382?v=4',
-        url: 'https://github.com/klerit'
+        avatar: 'https://avatars.githubusercontent.com/u/163078269?v=4',
+        url: 'https://github.com/clerriedy'
     },
     {
         login: 'Dec81',
